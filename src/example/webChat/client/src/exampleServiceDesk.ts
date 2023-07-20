@@ -17,7 +17,7 @@ import { ErrorType , MessageRequest, MessageResponse , User ,
   ServiceDeskFactoryParameters,
   ServiceDeskStateFromWAC,
   StartChatOptions,
-, AgentProfile, ServiceDeskCallback } from 'common/types/serviceDeskTypes';
+  AgentProfile, ServiceDeskCallback } from 'common/types/serviceDeskTypes';
 
 
 
